@@ -6,6 +6,7 @@
 // Siga os comentários para implementar cada parte do desafio.
 
 int main() {
+    
     // Definição das variáveis para armazenar as propriedades das cidades
     // Você pode utilizar o código do primeiro desafio
 
@@ -27,6 +28,7 @@ int main() {
 
     // Exemplo:
     // if (populacaoA > populacaoB) {
+
     //     printf("Cidade 1 tem maior população.\n");
     // } else {
     //     printf("Cidade 2 tem maior população.\n");
